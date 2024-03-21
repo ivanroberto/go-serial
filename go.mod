@@ -1,11 +1,11 @@
 module github.com/ivanroberto/go-serial
 
-go 1.17
+go 1.21.3
 
 require (
 	github.com/creack/goselect v0.1.2
-	github.com/stretchr/testify v1.8.4
-	golang.org/x/sys v0.17.0
+	github.com/stretchr/testify v1.9.0
+	golang.org/x/sys v0.18.0
 )
 
 require (
